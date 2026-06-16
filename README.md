@@ -54,7 +54,7 @@ LCD DB0-DB15 -> 22-37
 ```
 
 
-Quick example
+Quick example:
 
 
 ```
@@ -77,13 +77,13 @@ void setup() {
 ```
 
 
-Important note about fonts
+Important note about fonts:
 
 Arduino Mega 2560 has a 64KB limit per FLASH segment. You cannot compile all 52 GFX fonts at once - you'll get "value too large for field of 2 bytes" error. Use max 8-10 fonts per sketch for testing. For final project keep only 3-4 fonts you actually need.
 
 
 
-Installation
+Installation:
 
 
 1: Copy the whole folder to Arduino/libraries/
