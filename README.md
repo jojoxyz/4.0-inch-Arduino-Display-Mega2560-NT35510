@@ -1,4 +1,4 @@
-# 4.0-inch-Arduino-Display-Mega2560-NT35510
+# 4.0-inch-Arduino-Display-Mega2560-NT35510  MAR4018
 LCDWIKI_NT35510_Mega_Adapted Library
 
 LCDWIKI_NT35510_Mega_Adapted 4.0inch Arduino Display-Mega2560 NT35510 Adapted library for the 4.0" 800x480 Arduino display with NT35510 controller on Arduino Mega 2560.Based on the official library from lcdwiki.com 4.0inch_Arduino_Display-Mega2560_NT35510, but modified to work with Adafruit_GFX functions and custom fonts.
